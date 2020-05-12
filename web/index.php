@@ -1,18 +1,8 @@
 <html lang="sk">
 <head>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-165933585-1"></script>
-	<script>
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-	
-	gtag('config', 'UA-165933585-1');
-	</script>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
-    <title>Co Chces</title>
+    <title>Drevo Anarchy</title>
 	<link rel=icon href="/favicon.ico">
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,600,600italic,700,700italic|Comfortaa:400,700" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" href="/css/bootstrap.min.css">
