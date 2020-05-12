@@ -92,7 +92,7 @@ a:focus, a:active, a:hover {
 	min-height: 100%;
 }
 .bg-wrapper {
-	position: absolute;
+	position: initial;
 	top: -50%;
 	left: -50%;
 	width: 200%;
