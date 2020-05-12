@@ -23,7 +23,7 @@
 <!-- banner start -->
 <div class="wrapper wrapper-bg-banner wrapper-center-block banner" data-lead-id="banner">
 	<div class="bg-wrapper">
-        <img src="img/banner.jpg" alt="" data-lead-id="banner-bg">
+        <img src="img/banner.png" alt="" data-lead-id="banner-bg">
     </div>
     <div class="bg-text middle">
         <div class="fill">
