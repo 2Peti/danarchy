@@ -12,7 +12,7 @@
 
 <!-- banner start -->
 <div class="wrapper wrapper-bg-banner wrapper-center-block banner" data-lead-id="banner">
-	<div class="bg-wrapper">
+	<div>
         <img src="img/banner.png" alt="" data-lead-id="banner-bg">
     </div>
     <div class="bg-text middle">
