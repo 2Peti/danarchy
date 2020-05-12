@@ -92,6 +92,7 @@ a:focus, a:active, a:hover {
 	min-height: 100%;
 }
 .bg-wrapper {
+	background-image:url('img/banner.png');
 	position: absolute;
 	top: -50%;
 	left: -50%;
