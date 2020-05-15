@@ -31,12 +31,12 @@
 </div>
 <!-- banner ends -->
 
-<div id="section1" class="wrapper wrapper-center-block links" data-lead-id="links">
+<div id="section1" class="wrapper wrapper-center-block ip" data-lead-id="ip">
     <div class="container text-center">
         <div class="row">
             <div class="col-xs-12 col-md-11 col-lg-10 center-block">
-                <h2 data-lead-id="links-title"><strong><span style="color:#8afffc">&lt;</span> IP <span style="color:#8afffc">/&gt;</span></strong></h2>
-				<a class="btn">3.137.63.131:13202</a>
+                <h2 data-lead-id="ip-title"><strong><span style="color:#8afffc">&lt;</span> IP <span style="color:#8afffc">/&gt;</span></strong></h2>
+				<h2 data-lead-id="ip-title"><strong><span style="color:#8afffc">&lt;</span> 3.137.63.131:13202 <span style="color:#8afffc">/&gt;</span></strong></h2>
             </div>
         </div>
     </div>
