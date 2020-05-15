@@ -35,13 +35,8 @@
     <div class="container text-center">
         <div class="row">
             <div class="col-xs-12 col-md-11 col-lg-10 center-block">
-                <h2 data-lead-id="links-title"><strong><span style="color:#8afffc">&lt;</span> Links <span style="color:#8afffc">/&gt;</span></strong></h2>
-				<a href="/games" class="btn">Piskvorky</a>
-				<a href="/ip" class="btn">What is my IP</a>
-				<a href="/gps" class="btn">What is my location</a>
-				<a href="/Download" class="btn">Downloads</a>
-				<a href="https://zsrozkn.edupage.org/" class="btn">Edupage</a>
-				<a href="https://www.bezkriedy.sk/metodici.php" class="btn">Bezkriedy</a>
+                <h2 data-lead-id="links-title"><strong><span style="color:#8afffc">&lt;</span> IP <span style="color:#8afffc">/&gt;</span></strong></h2>
+				<a class="btn">3.137.63.131:13202</a>
             </div>
         </div>
     </div>
