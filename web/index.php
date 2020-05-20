@@ -35,7 +35,7 @@
     <div class="container text-center">
         <div class="row">
             <div class="col-xs-12 col-md-11 col-lg-10 center-block">
-                <h2 data-lead-id="ip-title"><strong><span style="color:#8afffc">&lt;</span> IP: 3.137.63.131:12530<span style="color:#8afffc">/&gt;</span></strong></h2>
+                <h2 data-lead-id="ip-title"><strong><span style="color:#8afffc">&lt;</span> IP: 3.137.63.131:17192<span style="color:#8afffc">/&gt;</span></strong></h2>
 				<a href="/downloads/DrevoAnarchy.zip" download="DrevoAnarchy.zip" class="btn">Texture Pack</a>
             </div>
         </div>
