@@ -21,7 +21,7 @@
                 <div class="row">
     				<div class="col-xs-12 col-md-11 col-lg-10 center-block text-center">
                         <div class="inner">
-                            <a href="" class="logo" data-lead-id="logo"><img src="img/logo.png" alt=""></a>
+                            <a href="https://cochces.herokuapp.com/" class="logo" data-lead-id="logo"><img src="img/logo.png" alt=""></a>
                         </div>
     				</div>
     			</div>
@@ -35,7 +35,8 @@
     <div class="container text-center">
         <div class="row">
             <div class="col-xs-12 col-md-11 col-lg-10 center-block">
-                <h2 data-lead-id="ip-title"><strong><span style="color:#8afffc">&lt;</span> IP: 3.137.63.131:17192<span style="color:#8afffc">/&gt;</span></strong></h2>
+                <h2 data-lead-id="ip-title"><strong><span style="color:#8afffc">&lt;</span> IP: 3.137.63.131:12530<span style="color:#8afffc">/&gt;</span></strong></h2>
+				<a href="/downloads/DrevoAnarchy.zip" download="DrevoAnarchy.zip" class="btn">Texture Pack</a>
             </div>
         </div>
     </div>
@@ -46,7 +47,7 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-md-11 col-lg-10 center-block text-center">
-                <a href="" class="footer-logo" data-lead-id="footer-logo"><img src="img/logo.png" alt=""></a>
+                <a href="https://cochces.herokuapp.com/" class="footer-logo" data-lead-id="footer-logo"><img src="img/logo.png" alt=""></a>
                 
                 
             </div>
