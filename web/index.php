@@ -49,6 +49,9 @@ function copy() {
     textArea.select();
     document.execCommand("Copy");
     textArea.remove();
+
+    var tooltip = document.getElementById("myTooltip");
+    tooltip.innerHTML = "Copied!";
 }
 </script>
 <div id="section1" class="wrapper wrapper-center-block ip" data-lead-id="ip">
