@@ -60,7 +60,7 @@ function copy() {
             <div class="col-xs-12 col-md-11 col-lg-10 center-block">
                 <h2 data-lead-id="ip-title"><strong><span style="color:#8afffc">&lt;</span> The best Anarchy server in Minecraft <span style="color:#8afffc">/&gt;</span></strong></h2>
                 <h2 data-lead-id="ip-title"><strong><span style="color:#8afffc"></span> IP: <span style="color:#8afffc"></span></strong></h2> 
-                <a id="IP" onClick="copy()" class="btn"> <span class="tooltiptext" id="myTooltip">Copy to clipboard</span> 3.137.63.131:17192</a>
+                <a id="IP" onClick="copy()" class="btn">3.137.63.131:17192</a>
                 <a href="/downloads/DrevoAnarchy.zip" download="DrevoAnarchy.zip" class="btn">Texture Pack</a>
             </div>
         </div>
