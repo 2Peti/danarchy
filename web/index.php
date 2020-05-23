@@ -40,29 +40,28 @@
     </div>
 </div>
 <!-- banner ends -->
-
+<script>
+function copy() {
+    var copyText = document.getElementById("IP");
+    var textArea = document.createElement("textarea");
+    textArea.value = copyText.textContent;
+    document.body.appendChild(textArea);
+    textArea.select();
+    document.execCommand("Copy");
+    textArea.remove();
+}
+</script>
 <div id="section1" class="wrapper wrapper-center-block ip" data-lead-id="ip">
     <div class="container text-center">
         <div class="row">
             <div class="col-xs-12 col-md-11 col-lg-10 center-block">
                 <h2 data-lead-id="ip-title"><strong><span style="color:#8afffc">&lt;</span> The best Anarchy server in Minecraft <span style="color:#8afffc">/&gt;</span></strong></h2>
+                <h2 data-lead-id="ip-title"><strong><span style="color:#8afffc"></span> IP: <span style="color:#8afffc"></span></strong></h2> <a id="IP" onClick="copy()" class="btn">3.137.63.131:17192</a>
+                <a href="/downloads/DrevoAnarchy.zip" download="DrevoAnarchy.zip" class="btn">Texture Pack</a>
             </div>
         </div>
     </div>
 </div>
-
-<div id="section2" class="wrapper wrapper-center-block ip" data-lead-id="ip">
-    <div class="container text-center">
-        <div class="row">
-            <div class="col-xs-12 col-md-11 col-lg-10 center-block">
-                <h2 data-lead-id="ip-title"><strong><span style="color:#8afffc"></span> IP: 3.137.63.131:17192 <span style="color:#8afffc"></span></strong></h2>
-				<a href="/downloads/DrevoAnarchy.zip" download="DrevoAnarchy.zip" class="btn">Texture Pack</a>
-            </div>
-        </div>
-    </div>
-</div>
-
-
 <footer class="wrapper wrapper-center-block footer" data-lead-id="footer">
     <div class="container">
         <div class="row">
